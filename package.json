@@ -1,0 +1,42 @@
+{
+    "name": "tailwind-quickstart",
+    "description": "Get started with TailwindCSS 3.4",
+    "version": "1.0.15",
+    "maintainers": [
+        {
+            "name": "Diz Andriana",
+            "email": "project@relaxmerim.com",
+            "web": "https://github.com/AndrianD"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/AndrianD/tailwind3-quickstart.git"
+        }
+    ],
+    "main": "public/index.html",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AndrianD/tailwind3-quickstart.git"
+    },
+    "keywords": [
+        "css, tailwindcss, tailwind, postcss,"
+    ],
+    "author": "Diz Andriana",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AndrianD/tailwind-quickstart/issues"
+    },
+    "homepage": "https://github.com/AndrianD/tailwind-quickstart#readme",
+    "devDependencies": {
+        "autoprefixer": "^10.4.18",
+        "postcss": "^8.4.35",
+        "tailwindcss": "^3.4.1",
+        "vite": "^5.1.6"
+    }
+}
